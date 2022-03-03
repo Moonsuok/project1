@@ -1,0 +1,9 @@
+* {margin: 0; padding: 0;}
+body {font-family: "돋움"; font-size: 16px; color: #333;}
+a {color: #333; text-decoration: none;}
+ul {list-style: none;}
+
+.wrap {width: 90%; margin: 0 5%;}
+#headerArea {background: lightgreen;}
+#content {background: pink; height: 800px;}
+#footerArea {background: orange; height: 50px;}
